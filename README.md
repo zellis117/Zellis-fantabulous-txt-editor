@@ -36,4 +36,4 @@ GitHub: zellis117 , Email: zacellis117@gmail.com
 <a name="screenshot"></a>
 ## Deployed Application
 Link to deployed app: https://zellis-txt-editor.herokuapp.com/ 
-![Alt Screenshot of application running](./)
+![Alt Screenshot of application running](./client/src/images/screenShot.png)
